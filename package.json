@@ -1,0 +1,7 @@
+{
+  "name": "frankenphpdemo",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "frankenphp php-server -l 0.0.0.0:8080 -r ${APP_HOME}${CC_WEBROOT}"
+  }
+}
